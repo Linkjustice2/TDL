@@ -4,22 +4,10 @@
     "author": "We4therman",
     "creators": [],
     "verifier": "Linkjustice",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "53",
+    "verification": "https://www.youtube.com/watch?v=tLq935NHECQ",
+    "percentToQualify": "57",
     "gddl": "20.73",
     "aredl": "#1127",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }
