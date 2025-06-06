@@ -52,7 +52,11 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">GDDL Tier</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <p>{{ level.gddl || 'Free to Copy' }}</p>
+                        </li>
+                         <li>
+                            <div class="type-title-sm">AREDL Tier</div>
+                            <p>{{ level.aredl || 'Free to Copy' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
