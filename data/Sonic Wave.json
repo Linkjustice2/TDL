@@ -9,5 +9,11 @@
     "gddl": "30.12",
     "aredl": "#256",
     "records": [
+        {
+            "user": "Bob",
+            "link": "https://www.youtube.com/watch?v=pH8jLGOi1xs",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
